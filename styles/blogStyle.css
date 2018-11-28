@@ -1,0 +1,44 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+hr {
+    color: goldenrod;
+}
+
+#container-top {
+    margin-left: 10px;
+    margin-bottom: 10px;   
+}
+
+#pic {
+    margin-left: 5px;
+    position: relative;
+    float: right;
+    width: 30%;
+}
+
+#container-bottom {
+    margin-top: 40px;
+    margin-left: 10px;
+    position: relative;
+    float: left;
+    width: 68%;
+}
+
+article {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    border-left: 2px solid gray;
+    margin-left: 300px;
+    padding-right: 250px;
+}

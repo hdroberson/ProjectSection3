@@ -1,0 +1,76 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: beige
+}
+
+h1 {
+    text-align: center;
+    color:  rgb(100, 69, 69);
+    font-weight: bold;
+}
+
+p, h3 {
+    margin: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: brown;
+}
+
+#unordered-list, #ordered-list {
+    padding-left: 20px;
+}
+
+#unordered-list li {
+    font-style: italic;
+    margin-left: 40px;
+    padding-top: 5px;
+}
+
+#disc {
+    list-style: disc;
+}
+
+#circle {
+    list-style: circle;
+}
+
+#square {
+    list-style: square;
+}
+
+#ordered-list li {
+    font-style: italic;
+    margin-left: 40px;
+    padding-top: 5px;
+}
+
+#decimal {
+    list-style: decimal;
+}
+
+#lower-roman {
+    list-style: lower-roman;
+}
+
+#upper-roman {
+    list-style: upper-roman;
+}
+
+#lower-alpha {
+    list-style: lower-alpha;
+}
+
+#upper-alpha {
+    list-style: upper-alpha;
+}
+
+#ordered-list .last {
+    color: red;
+}
