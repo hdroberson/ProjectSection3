@@ -2,12 +2,12 @@ body {
     margin: 0px;
     padding: 0px;
     font-family: 'Times New Roman', Times, serif;
-    background-color: beige
+    background-color: rgb(223, 217, 210);
 }
 
 h1 {
     text-align: center;
-    color:  rgb(100, 69, 69);
+    color:  rgb(44, 143, 146);
     font-weight: bold;
 }
 
@@ -17,6 +17,7 @@ p, h3 {
 
 a {
     text-decoration: none;
+    color: rgb(44, 143, 146);
 }
 
 a:hover {
